@@ -1,0 +1,134 @@
+@media all and (min-width: 1400px) {
+    footer {
+        background-color: #3f3f3f;
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        padding: 5rem 0;
+    }
+    footer div {
+        width: 80rem;
+        display: flex;
+        flex-direction: row;
+        flex-wrap: nowrap;
+        justify-content: space-between;
+        align-items: center;
+    }
+    footer div a img {
+        width: 50px;
+        height: 50px;
+    }
+}
+  
+@media all and (min-width: 1200px) and (max-width: 1400px) {
+    footer {
+        background-color: #3f3f3f;
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        padding: 5rem 0;
+    }
+    footer div {
+        width: 69rem;
+        display: flex;
+        flex-direction: row;
+        flex-wrap: nowrap;
+        justify-content: space-between;
+        align-items: center;
+    }
+    footer div a img {
+        width: 50px;
+        height: 50px;
+    }
+}
+  
+@media all and (min-width: 1000px) and (max-width: 1200px) {
+    footer {
+        background-color: #3f3f3f;
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        padding: 5rem 0;
+    }
+    footer div {
+        width: 55rem;
+        display: flex;
+        flex-direction: row;
+        flex-wrap: nowrap;
+        justify-content: space-between;
+        align-items: center;
+    }
+    footer div a img {
+        width: 50px;
+        height: 50px;
+    }
+}
+  
+@media all and (min-width: 750px) and (max-width: 1000px) {
+    footer {
+        background-color: #3f3f3f;
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        padding: 5rem 0;
+    }
+    footer div {
+        width: 40rem;
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        justify-content: center;
+        align-items: center;
+        gap: 2rem;
+    }
+    footer div a img {
+        width: 50px;
+        height: 50px;
+    }
+}
+  
+@media all and (min-width: 500px) and (max-width: 750px) {
+    footer {
+        background-color: #3f3f3f;
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        padding: 5rem 0;
+    }
+    footer div {
+        width: 26rem;
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        justify-content: center;
+        align-items: center;
+        gap: 2rem;
+    }
+    footer div a img {
+        width: 50px;
+        height: 50px;
+    }
+}
+  
+@media all and (max-width: 500px) {
+    footer {
+        background-color: #3f3f3f;
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        padding: 5rem 0;
+    }
+    footer div {
+        width: 90%;
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        justify-content: center;
+        align-items: center;
+        gap: 2rem;
+    }
+    footer div a img {
+        width: 50px;
+        height: 50px;
+    }
+}

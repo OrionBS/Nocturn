@@ -1,0 +1,371 @@
+@media all and (min-width: 1400px) {
+    main {
+        background-color: #e8e8e8;
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        padding: 5rem 0;
+    }
+    main div {
+        width: 80rem;
+        display: flex;
+        flex-direction: column;
+        flex-wrap: nowrap;
+        justify-content: center;
+        align-items: center;
+        gap: 5rem;
+    }
+    main div section {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        gap: 2rem;
+    }
+    main div section blockquote {
+        display: flex;
+        flex-direction: column;
+        flex-wrap: nowrap;
+        gap: 1rem;
+        justify-content: center;
+        align-items: flex-start;
+        width: 50%;
+    }
+    main div section h2 {
+        font-size: 2.4rem;
+        font-weight: 400;
+    }
+    main div section p {
+        font-size: 1.1rem;
+        font-weight: 300;
+        text-align: justify;
+    }
+    main div section h3 {
+        font-size: 1.6rem;
+        font-weight: 300;
+    }
+    main div section img {
+        width: 50%
+    }
+    
+    main div section#synopsis {
+        width: 60%;
+        flex-direction: column;
+        text-align: center;
+    }
+    main div section#teamwork {
+        flex-direction: row;
+    }
+    main div section#satisfaction {
+        flex-direction: row;
+    }
+}
+  
+@media all and (min-width: 1200px) and (max-width: 1400px) {
+    main {
+        background-color: #e8e8e8;
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        padding: 5rem 0;
+    }
+    main div {
+        width: 69rem;
+        display: flex;
+        flex-direction: column;
+        flex-wrap: nowrap;
+        justify-content: center;
+        align-items: center;
+        gap: 5rem;
+    }
+    main div section {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        gap: 2rem;
+    }
+    main div section blockquote {
+        display: flex;
+        flex-direction: column;
+        flex-wrap: nowrap;
+        gap: 1rem;
+        justify-content: center;
+        align-items: flex-start;
+        width: 50%;
+    }
+    main div section h2 {
+        font-size: 2.4rem;
+        font-weight: 400;
+    }
+    main div section p {
+        font-size: 1.1rem;
+        font-weight: 300;
+        text-align: justify;
+    }
+    main div section h3 {
+        font-size: 1.6rem;
+        font-weight: 300;
+    }
+    main div section img {
+        width: 50%
+    }
+    
+    main div section#synopsis {
+        width: 60%;
+        flex-direction: column;
+        text-align: center;
+    }
+    main div section#teamwork {
+        flex-direction: row;
+    }
+    main div section#satisfaction {
+        flex-direction: row;
+    }
+}
+  
+@media all and (min-width: 1000px) and (max-width: 1200px) {
+    main {
+        background-color: #e8e8e8;
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        padding: 5rem 0;
+    }
+    main div {
+        width: 55rem;
+        display: flex;
+        flex-direction: column;
+        flex-wrap: nowrap;
+        justify-content: center;
+        align-items: center;
+        gap: 5rem;
+    }
+    main div section {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        gap: 2rem;
+    }
+    main div section blockquote {
+        display: flex;
+        flex-direction: column;
+        flex-wrap: nowrap;
+        gap: 1rem;
+        justify-content: center;
+        align-items: flex-start;
+        width: 50%;
+    }
+    main div section h2 {
+        font-size: 2.4rem;
+        font-weight: 400;
+    }
+    main div section p {
+        font-size: 1.1rem;
+        font-weight: 300;
+        text-align: justify;
+    }
+    main div section h3 {
+        font-size: 1.6rem;
+        font-weight: 300;
+    }
+    main div section img {
+        width: 50%
+    }
+    
+    main div section#synopsis {
+        width: 80%;
+        flex-direction: column;
+        text-align: center;
+    }
+    main div section#teamwork {
+        flex-direction: row;
+    }
+    main div section#satisfaction {
+        flex-direction: row;
+    }
+}
+  
+@media all and (min-width: 750px) and (max-width: 1000px) {
+    main {
+        background-color: #e8e8e8;
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        padding: 5rem 0;
+    }
+    main div {
+        width: 40rem;
+        display: flex;
+        flex-direction: column;
+        flex-wrap: nowrap;
+        justify-content: center;
+        align-items: center;
+        gap: 5rem;
+    }
+    main div section {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        gap: 2rem;
+    }
+    main div section blockquote {
+        display: flex;
+        flex-direction: column;
+        flex-wrap: nowrap;
+        gap: 1rem;
+        justify-content: center;
+        align-items: flex-start;
+        width: 100%;
+    }
+    main div section h2 {
+        font-size: 2.4rem;
+        font-weight: 400;
+    }
+    main div section p {
+        font-size: 1.1rem;
+        font-weight: 300;
+        text-align: justify;
+    }
+    main div section h3 {
+        font-size: 1.6rem;
+        font-weight: 300;
+    }
+    main div section img {
+        width: 100%
+    }
+    
+    main div section#synopsis {
+        width: 100%;
+        flex-direction: column;
+        text-align: center;
+    }
+    main div section#teamwork {
+        flex-direction: column-reverse;
+    }
+    main div section#satisfaction {
+        flex-direction: column;
+    }
+}
+  
+@media all and (min-width: 500px) and (max-width: 750px) {
+    main {
+        background-color: #e8e8e8;
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        padding: 5rem 0;
+    }
+    main div {
+        width: 26rem;
+        display: flex;
+        flex-direction: column;
+        flex-wrap: nowrap;
+        justify-content: center;
+        align-items: center;
+        gap: 5rem;
+    }
+    main div section {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        gap: 2rem;
+    }
+    main div section blockquote {
+        display: flex;
+        flex-direction: column;
+        flex-wrap: nowrap;
+        gap: 1rem;
+        justify-content: center;
+        align-items: flex-start;
+        width: 100%;
+    }
+    main div section h2 {
+        font-size: 2.4rem;
+        font-weight: 400;
+    }
+    main div section p {
+        font-size: 1.1rem;
+        font-weight: 300;
+        text-align: justify;
+    }
+    main div section h3 {
+        font-size: 1.6rem;
+        font-weight: 300;
+    }
+    main div section img {
+        width: 100%
+    }
+    
+    main div section#synopsis {
+        width: 100%;
+        flex-direction: column;
+        text-align: center;
+    }
+    main div section#teamwork {
+        flex-direction: column-reverse;
+    }
+    main div section#satisfaction {
+        flex-direction: column;
+    }
+}
+  
+@media all and (max-width: 500px) {
+    main {
+        background-color: #e8e8e8;
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        padding: 5rem 0;
+    }
+    main div {
+        width: 80%;
+        display: flex;
+        flex-direction: column;
+        flex-wrap: nowrap;
+        justify-content: center;
+        align-items: center;
+        gap: 5rem;
+    }
+    main div section {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        gap: 2rem;
+    }
+    main div section blockquote {
+        display: flex;
+        flex-direction: column;
+        flex-wrap: nowrap;
+        gap: 1rem;
+        justify-content: center;
+        align-items: flex-start;
+        width: 100%;
+    }
+    main div section h2 {
+        font-size: 1.6rem;
+        font-weight: 400;
+    }
+    main div section p {
+        font-size: 1.1rem;
+        font-weight: 300;
+        text-align: justify;
+    }
+    main div section h3 {
+        font-size: 1.6rem;
+        font-weight: 300;
+    }
+    main div section img {
+        width: 100%
+    }
+    
+    main div section#synopsis {
+        width: 100%;
+        flex-direction: column;
+        text-align: center;
+    }
+    main div section#teamwork {
+        flex-direction: column-reverse;
+    }
+    main div section#satisfaction {
+        flex-direction: column;
+    }
+}
