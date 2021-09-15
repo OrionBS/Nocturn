@@ -1,228 +1,221 @@
 @media all and (min-width: 1400px) {
-    header {
-        background-color: #3f3f3f;
-        min-height: 100vh;
+    main {
+        background-color: #e8e8e8;
         width: 100%;
         display: flex;
         justify-content: center;
-        padding: 10rem 0;
+        padding: 5rem 0;
     }
-    header div {
+    main div {
         width: 80rem;
-        display: flex;
-        flex-direction: row;
-        justify-content: center;
-        align-items: center;
-        gap: 2rem;
-    }
-    header div section {
         display: flex;
         flex-direction: column;
         flex-wrap: nowrap;
-        gap: 1.5rem;
         justify-content: center;
-        align-items: flex-start;
-        width: 45%;
+        align-items: center;
+        gap: 5rem;
     }
-    header div section span {
+    main div section {
         width: 100%;
         display: flex;
+        flex-direction: row;
         gap: 2rem;
     }
-    header div img {
-        width: 55%;
+    main div section blockquote {
+        display: flex;
+        flex-direction: column;
+        flex-wrap: nowrap;
+        gap: 1rem;
+        justify-content: center;
+        align-items: flex-start;
+        width: 50%;
+    }
+    main div section img {
+        width: 50%
     }
 }
   
 @media all and (min-width: 1200px) and (max-width: 1400px) {
-    header {
-        background-color: #3f3f3f;
-        min-height: 100vh;
+    main {
+        background-color: #e8e8e8;
         width: 100%;
         display: flex;
         justify-content: center;
-        padding: 10rem 0;
+        padding: 5rem 0;
     }
-    header div {
+    main div {
         width: 69rem;
-        display: flex;
-        flex-direction: row;
-        justify-content: center;
-        align-items: center;
-        gap: 2rem;
-    }
-    header div section {
         display: flex;
         flex-direction: column;
         flex-wrap: nowrap;
-        gap: 1.5rem;
         justify-content: center;
-        align-items: flex-start;
-        width: 45%;
+        align-items: center;
+        gap: 5rem;
     }
-    header div section span {
+    main div section {
         width: 100%;
         display: flex;
+        flex-direction: row;
         gap: 2rem;
-    
     }
-    header div img {
-        width: 55%;
+    main div section blockquote {
+        display: flex;
+        flex-direction: column;
+        flex-wrap: nowrap;
+        gap: 1rem;
+        justify-content: center;
+        align-items: flex-start;
+        width: 50%;
+    }
+    main div section img {
+        width: 50%
     }
 }
   
 @media all and (min-width: 1000px) and (max-width: 1200px) {
-    header {
-        background-color: #3f3f3f;
-        min-height: 100vh;
+    main {
+        background-color: #e8e8e8;
         width: 100%;
         display: flex;
         justify-content: center;
-        padding: 8rem 0;
+        padding: 5rem 0;
     }
-    header div {
+    main div {
         width: 55rem;
-        display: flex;
-        flex-direction: row;
-        justify-content: center;
-        align-items: center;
-        gap: 2rem;
-    }
-    header div section {
         display: flex;
         flex-direction: column;
         flex-wrap: nowrap;
-        gap: 1.5rem;
         justify-content: center;
-        align-items: flex-start;
-        width: 45%;
+        align-items: center;
+        gap: 5rem;
     }
-    header div section span {
+    main div section {
         width: 100%;
         display: flex;
-        gap: 1rem;
-    
+        flex-direction: row;
+        gap: 2rem;
     }
-    header div img {
-        width: 55%;
+    main div section blockquote {
+        display: flex;
+        flex-direction: column;
+        flex-wrap: nowrap;
+        gap: 1rem;
+        justify-content: center;
+        align-items: flex-start;
+        width: 50%;
+    }
+    main div section img {
+        width: 50%
     }
 }
   
 @media all and (min-width: 750px) and (max-width: 1000px) {
-    header {
-        background-color: #3f3f3f;
-        min-height: 100vh;
+    main {
+        background-color: #e8e8e8;
         width: 100%;
         display: flex;
         justify-content: center;
-        padding: 8rem 0;
+        padding: 5rem 0;
     }
-    header div {
+    main div {
         width: 40rem;
         display: flex;
         flex-direction: column;
+        flex-wrap: nowrap;
         justify-content: center;
         align-items: center;
-        gap: 4rem;
+        gap: 5rem;
     }
-    header div section {
+    main div section {
+        width: 100%;
+        display: flex;
+        flex-direction: column-reverse !important;
+        gap: 2rem;
+    }
+    main div section blockquote {
         display: flex;
         flex-direction: column;
         flex-wrap: nowrap;
-        gap: 1.5rem;
+        gap: 1rem;
         justify-content: center;
         align-items: flex-start;
         width: 100%;
     }
-    header div section span {
-        width: 100%;
-        display: flex;
-        gap: 1rem;
-    
-    }
-    header div img {
-        width: 100%;
+    main div section img {
+        width: 100%
     }
 }
   
 @media all and (min-width: 500px) and (max-width: 750px) {
-    header {
-        background-color: #3f3f3f;
-        min-height: 100vh;
+    main {
+        background-color: #e8e8e8;
         width: 100%;
         display: flex;
         justify-content: center;
-        padding: 8rem 0;
+        padding: 5rem 0;
     }
-    header div {
+    main div {
         width: 26rem;
         display: flex;
         flex-direction: column;
+        flex-wrap: nowrap;
         justify-content: center;
         align-items: center;
-        gap: 4rem;
+        gap: 5rem;
     }
-    header div section {
+    main div section {
+        width: 100%;
+        display: flex;
+        flex-direction: column-reverse !important;
+        gap: 2rem;
+    }
+    main div section blockquote {
         display: flex;
         flex-direction: column;
         flex-wrap: nowrap;
-        gap: 1.5rem;
+        gap: 1rem;
         justify-content: center;
         align-items: flex-start;
         width: 100%;
     }
-    header div section span {
-        width: 100%;
-        display: flex;
-        justify-content: space-evenly;
-    }
-    header div img {
-        width: 100%;
+    main div section img {
+        width: 100%
     }
 }
   
 @media all and (max-width: 500px) {
-    header {
-        background-color: #3f3f3f;
-        min-height: 100vh;
+    main {
+        background-color: #e8e8e8;
         width: 100%;
         display: flex;
         justify-content: center;
-        padding: 8rem 0;
+        padding: 5rem 0;
     }
-    header div {
+    main div {
         width: 80%;
         display: flex;
         flex-direction: column;
+        flex-wrap: nowrap;
         justify-content: center;
         align-items: center;
-        gap: 4rem;
+        gap: 5rem;
     }
-    header div section {
+    main div section {
+        width: 100%;
+        display: flex;
+        flex-direction: column-reverse !important;
+        gap: 2rem;
+    }
+    main div section blockquote {
         display: flex;
         flex-direction: column;
         flex-wrap: nowrap;
-        gap: 1.5rem;
+        gap: 1rem;
         justify-content: center;
         align-items: flex-start;
         width: 100%;
     }
-    header div section span {
-        width: 100%;
-        display: flex;
-        flex-direction: row;
-        justify-content: space-evenly;
-        flex-wrap: wrap;
-        gap: 1rem;
-    }
-    header div img {
-        width: 100%;
-    }
-    span#buttons {
-        flex-direction: column;
-    }
-    a.button {
-        align-self: stretch;
-        text-align: center;
+    main div section img {
+        width: 100%
     }
 }

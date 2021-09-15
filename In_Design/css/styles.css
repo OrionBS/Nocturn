@@ -20,24 +20,39 @@ body {
 .purple {
     color: #ad707f;
 }
-a {
-    text-decoration: none;
+.fw200 {
+    font-weight: 200;
 }
-a:hover {
-    text-decoration: underline;
+.fw300 {
+    font-weight: 300;
 }
-a.button {
-    text-decoration: none;
-    color: #e8e8e8;
-    background-color: #ad707f;
-    padding: 0.5rem 1rem;
-    border-radius: 1rem;
-    font-size: 1.2rem;
+.fw400 {
+    font-weight: 400;
+}
+.fw600 {
+    font-weight: 600;
+}
+.fw700 {
+    font-weight: 700;
+}
+.fw800 {
     font-weight: 800;
 }
-a.button:hover {
-    background-color: #884455;
+.fw900 {
+    font-weight: 900;
 }
-a {
-    cursor: pointer;
+.tac {
+    text-align: center;
+}
+.taj {
+    text-align: justify;
+}
+.alinea {
+    padding-left: 1rem;
+}
+.normal {
+    flex-direction: row;
+}
+.reverse {
+    flex-direction: row-reverse;
 }

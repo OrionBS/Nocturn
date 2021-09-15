@@ -1,0 +1,384 @@
+@media all and (min-width: 1400px) {
+    main {
+        background-color: #e8e8e8;
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        padding: 5rem 0;
+    }
+    main div {
+        width: 80rem;
+        display: flex;
+        flex-direction: column;
+        flex-wrap: nowrap;
+        justify-content: center;
+        align-items: center;
+        gap: 5rem;
+    }
+    main div section {
+        width: 100%;
+        display: flex;
+    }
+    main div section#prices {
+        flex-direction: row;
+        justify-content: center;
+        align-items: flex-start;
+        flex-wrap: nowrap;
+        gap: 2rem;
+        
+    }
+    main div section#prices div {
+        width: 35rem;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        gap: 1rem;
+        box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+        background-color: #3F3F3F;
+        border-radius: 1rem;
+        padding: 2rem;
+    }
+    main div section#prices div blockquote {
+        display: flex;
+        flex-direction: column;
+        flex-wrap: nowrap;
+        gap: 0.5rem;
+        justify-content: center;
+        align-items: flex-start;
+        width: 100%;
+    }
+    main div section#prices div img {
+        width: 50%
+    }
+    main div section#prices div a {
+        align-self: stretch;
+    }
+    main div section#details {
+        flex-direction: column;
+        justify-content: center;
+        align-items: flex-start;
+        gap: 1rem;
+    }
+}
+  
+@media all and (min-width: 1200px) and (max-width: 1400px) {
+    main {
+        background-color: #e8e8e8;
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        padding: 5rem 0;
+    }
+    main div {
+        width: 69rem;
+        display: flex;
+        flex-direction: column;
+        flex-wrap: nowrap;
+        justify-content: center;
+        align-items: center;
+        gap: 5rem;
+    }
+    main div section {
+        width: 100%;
+        display: flex;
+    }
+    main div section#prices {
+        flex-direction: row;
+        justify-content: center;
+        align-items: flex-start;
+        flex-wrap: nowrap;
+        gap: 2rem;
+        
+    }
+    main div section#prices div {
+        width: 35rem;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        gap: 1rem;
+        box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+        background-color: #3F3F3F;
+        border-radius: 1rem;
+        padding: 2rem;
+    }
+    main div section#prices div blockquote {
+        display: flex;
+        flex-direction: column;
+        flex-wrap: nowrap;
+        gap: 0.5rem;
+        justify-content: center;
+        align-items: flex-start;
+        width: 100%;
+    }
+    main div section#prices div img {
+        width: 50%
+    }
+    main div section#prices div a {
+        align-self: stretch;
+    }
+    main div section#details {
+        flex-direction: column;
+        justify-content: center;
+        align-items: flex-start;
+        gap: 1rem;
+    }
+    
+}
+  
+@media all and (min-width: 1000px) and (max-width: 1200px) {
+    main {
+        background-color: #e8e8e8;
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        padding: 5rem 0;
+    }
+    main div {
+        width: 55rem;
+        display: flex;
+        flex-direction: column;
+        flex-wrap: nowrap;
+        justify-content: center;
+        align-items: center;
+        gap: 5rem;
+    }
+    main div section {
+        width: 100%;
+        display: flex;
+    }
+    main div section#prices {
+        flex-direction: row;
+        justify-content: center;
+        align-items: flex-start;
+        flex-wrap: nowrap;
+        gap: 2rem;
+        
+    }
+    main div section#prices div {
+        width: 35rem;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        gap: 1rem;
+        box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+        background-color: #3F3F3F;
+        border-radius: 1rem;
+        padding: 2rem;
+    }
+    main div section#prices div blockquote {
+        display: flex;
+        flex-direction: column;
+        flex-wrap: nowrap;
+        gap: 0.5rem;
+        justify-content: center;
+        align-items: flex-start;
+        width: 100%;
+    }
+    main div section#prices div img {
+        width: 50%
+    }
+    main div section#prices div a {
+        align-self: stretch;
+    }
+    main div section#details {
+        flex-direction: column;
+        justify-content: center;
+        align-items: flex-start;
+        gap: 1rem;
+    }
+}
+  
+@media all and (min-width: 750px) and (max-width: 1000px) {
+    main {
+        background-color: #e8e8e8;
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        padding: 5rem 0;
+    }
+    main div {
+        width: 40rem;
+        display: flex;
+        flex-direction: column;
+        flex-wrap: nowrap;
+        justify-content: center;
+        align-items: center;
+        gap: 5rem;
+    }
+    main div section {
+        width: 100%;
+        display: flex;
+    }
+    main div section#prices {
+        flex-direction: row;
+        justify-content: center;
+        align-items: flex-start;
+        flex-wrap: wrap;
+        gap: 2rem;
+        
+    }
+    main div section#prices div {
+        width: 35rem;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        gap: 1rem;
+        box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+        background-color: #3F3F3F;
+        border-radius: 1rem;
+        padding: 2rem;
+    }
+    main div section#prices div blockquote {
+        display: flex;
+        flex-direction: column;
+        flex-wrap: nowrap;
+        gap: 0.5rem;
+        justify-content: center;
+        align-items: flex-start;
+        width: 100%;
+    }
+    main div section#prices div img {
+        width: 50%
+    }
+    main div section#prices div a {
+        align-self: stretch;
+    }
+    main div section#details {
+        flex-direction: column;
+        justify-content: center;
+        align-items: flex-start;
+        gap: 1rem;
+    }
+}
+  
+@media all and (min-width: 500px) and (max-width: 750px) {
+    main {
+        background-color: #e8e8e8;
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        padding: 5rem 0;
+    }
+    main div {
+        width: 26rem;
+        display: flex;
+        flex-direction: column;
+        flex-wrap: nowrap;
+        justify-content: center;
+        align-items: center;
+        gap: 5rem;
+    }
+    main div section {
+        width: 100%;
+        display: flex;
+    }
+    main div section#prices {
+        flex-direction: row;
+        justify-content: center;
+        align-items: flex-start;
+        flex-wrap: wrap;
+        gap: 2rem;
+        
+    }
+    main div section#prices div {
+        width: 35rem;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        gap: 1rem;
+        box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+        background-color: #3F3F3F;
+        border-radius: 1rem;
+        padding: 2rem;
+    }
+    main div section#prices div blockquote {
+        display: flex;
+        flex-direction: column;
+        flex-wrap: nowrap;
+        gap: 0.5rem;
+        justify-content: center;
+        align-items: flex-start;
+        width: 100%;
+    }
+    main div section#prices div img {
+        width: 50%
+    }
+    main div section#prices div a {
+        align-self: stretch;
+    }
+    main div section#details {
+        flex-direction: column;
+        justify-content: center;
+        align-items: flex-start;
+        gap: 1rem;
+    }
+}
+  
+@media all and (max-width: 500px) {
+    main {
+        background-color: #e8e8e8;
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        padding: 5rem 0;
+    }
+    main div {
+        width: 80%;
+        display: flex;
+        flex-direction: column;
+        flex-wrap: nowrap;
+        justify-content: center;
+        align-items: center;
+        gap: 5rem;
+    }
+    main div section {
+        width: 100%;
+        display: flex;
+    }
+    main div section#prices {
+        flex-direction: row;
+        justify-content: center;
+        align-items: flex-start;
+        flex-wrap: wrap;
+        gap: 2rem;
+        
+    }
+    main div section#prices div {
+        width: 35rem;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        gap: 1rem;
+        box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+        background-color: #3F3F3F;
+        border-radius: 1rem;
+        padding: 2rem;
+    }
+    main div section#prices div blockquote {
+        display: flex;
+        flex-direction: column;
+        flex-wrap: nowrap;
+        gap: 0.5rem;
+        justify-content: center;
+        align-items: flex-start;
+        width: 100%;
+    }
+    main div section#prices div img {
+        width: 50%
+    }
+    main div section#prices div a {
+        align-self: stretch;
+    }
+    main div section#details {
+        flex-direction: column;
+        justify-content: center;
+        align-items: flex-start;
+        gap: 1rem;
+    }
+}
